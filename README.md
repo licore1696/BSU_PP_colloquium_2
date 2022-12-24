@@ -1,4 +1,4 @@
-# BSU_PP_colloquium_1
+# BSU_PP_colloquium_2
 development of an application for managing emails
 
 Solution: to solve this problem, you can use the "Strategy" pattern. This pattern allows you to create various algorithms for working with email, 
